@@ -8,6 +8,9 @@ Main screen looks empty if the user have not used the camera side first.
 * XCode8
 * iPhone Device
 
+### Future Comments:
+In the camera view, some sort of view which shows app is working(Like first photo, second photo etc.) should be added. Also, some other view enhancements needs to be done.
+
 
 ### ScreenShots
 #### Empty Collection View
